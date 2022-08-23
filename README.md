@@ -1,2 +1,2 @@
-### Why using NEAR?
-Because it is great!
+<dt> Why using NEAR? </dt>
+<dd> Because it is great! </dd>
