@@ -1,2 +1,2 @@
-# near-knowledge-base
-A FAQ-formatted knowledge base for NEAR
+### Why using NEAR?
+Because it is great!
