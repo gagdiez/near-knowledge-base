@@ -1,0 +1,5 @@
+ How can I add an access key using near-api-js,"Using near-api-js you can add access keys using the `addKey()` method from the `account` object. Also, remember that a FunctionCall access key is added every time the user logs in"
+ How can I add an access key using naj,"Using near-api-js you can add access keys using the `addKey()` method from the `account` object. Also, remember that a FunctionCall access key is added every time the user logs in"
+ How can I add an access key using javascript,"Using near-api-js you can add access keys using the `addKey()` method from the `account` object. Also, remember that a FunctionCall access key is added every time the user logs in"
+ How can I add an access key from nodejs,"Using near-api-js you can add access keys using the `addKey()` method from the `account` object. Also, remember that a FunctionCall access key is added every time the user logs in"
+ How can I add an access key from the frontend,"Using near-api-js you can add access keys using the `addKey()` method from the `account` object. Also, remember that a FunctionCall access key is added every time the user logs in"

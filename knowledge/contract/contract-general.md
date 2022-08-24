@@ -1,0 +1,6 @@
+### What is a Smart Contract?
+Smart contracts are simple programs that live in the NEAR network. As any modern application, they store data and expose methods to interact with them. Contracts can be written in Javascript or Rust, and compile to WebAssembly. Once compiled, they can be deployed into a NEAR account so everyone can interact with them.
+
+### How can I develop a contract?
+### How can I make a smart contract?
+You can write smart contracts in Rust and Javascript. They will then get compiled into WebAssembly, so you can deploy them to NEAR.

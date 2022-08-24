@@ -1,0 +1,2 @@
+### What do I need to make a smart contract?
+Install Rust and node.js, then go ahead to our Quickstart guide.

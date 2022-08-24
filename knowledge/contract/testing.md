@@ -1,0 +1,9 @@
+### How can i test my contract?
+### What is workspaces?
+Near contracts can be tested using the workspaces framework. Workspaces enables to deploy a contract in a sandbox and create test-accounts to interact with it. Furthermore, you can simulate errors and control the flow of time.
+
+### How can i unit test?
+### How can i unit test my contract?
+### How can i do unit test?
+Unit tests allow you to test the contract methods individually. They are suitable to check the storage is updated correctly, and that methods return their expected values. They are written in the contract's language and execute locally.
+
